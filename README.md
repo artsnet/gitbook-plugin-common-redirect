@@ -25,9 +25,9 @@ Add the plugin to the book setting `book.json` and set the required options.
   ],
   "pluginsConfig": {
     "common-redirect": {
-			"target": "https://exampleA.com",
-			"redirect": "https://exampleB.com"
-		}
+      "target": "https://exampleA.com",
+      "redirect": "https://exampleB.com"
+    }
   }
 }
 ```
