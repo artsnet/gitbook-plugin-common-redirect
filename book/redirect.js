@@ -6,5 +6,6 @@ require(['gitbook'], function(gitbook) {
     if (location.origin === conf.target) {
       location.href = conf.redirect;
     }
+  });
 
 });
