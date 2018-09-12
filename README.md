@@ -5,7 +5,7 @@ This is a plugin for GitBook since version 2.3.0.
 
 Redirect all requests on your book from a specific origin.
 
-[![NPM](https://nodei.co/npm/gitbook-plugin-ccommon-redirect.png?downloads=true)](https://nodei.co/npm/gitbook-plugin-ccommon-redirect/)
+[![NPM](https://nodei.co/npm/gitbook-plugin-common-redirect.png?downloads=true)](https://nodei.co/npm/gitbook-plugin-common-redirect/)
 
 ## Usage
 
